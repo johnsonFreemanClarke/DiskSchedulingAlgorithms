@@ -13,7 +13,6 @@ EXAMPLE:
   You go to the function definition (ctrl find: C_LOOK).
   Change line 560 to accept parameter: GENERATE_REQUESTS.
   Uncomment out C_LOOK function and adjust init_head_value to your desired starting position.
-  
-Qt Creator is the IDE used to build this project. 
+   
 Ignore other comments related to Task #1 or Task #3.
 Run program via terminal or IDE.
